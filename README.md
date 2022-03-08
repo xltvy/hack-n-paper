@@ -6,7 +6,7 @@ Computer Engineering Department
 
 Fall 2020
 
-CMPE 250
+CMPE 250 - Data Structures and Algorithms
 
 Project 2
 
