@@ -1,4 +1,12 @@
 # hack-n-paper
+
+Bogazici University
+Computer Engineering Department
+Fall 2020
+CMPE 250
+Project 2
+Altay Acar
+
 A discrete event simulation project that simulates a virtual hackathon organized by the famous Dunder Mifflin from The Office TV-Series.
 
 Rules:
